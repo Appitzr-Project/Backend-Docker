@@ -1,0 +1,28 @@
+[submodule "Profile"]
+	path = Profile
+	url = git@github.com:Appitzr-Project/Backend-Profile.git
+	branch = main
+[submodule "Venues"]
+	path = Venues
+	url = git@github.com:Appitzr-Project/Backend-Venues.git
+	branch = main
+[submodule "Products"]
+	path = Products
+	url = git@github.com:Appitzr-Project/Backend-Products.git
+	branch = main
+[submodule "Orders"]
+	path = Orders
+	url = git@github.com:Appitzr-Project/Backend-Orders.git
+	branch = main
+[submodule "Reviews"]
+	path = Reviews
+	url = git@github.com:Appitzr-Project/Backend-Reviews.git
+	branch = main
+[submodule "Discount"]
+	path = Discount
+	url = git@github.com:Appitzr-Project/Backend-Discount.git
+	branch = main
+[submodule "Notifications"]
+	path = Notifications
+	url = git@github.com:Appitzr-Project/Backend-Notifications.git
+	branch = main
