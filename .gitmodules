@@ -26,3 +26,11 @@
 	path = Notifications
 	url = git@github.com:Appitzr-Project/Backend-Notifications.git
 	branch = main
+[submodule "API-Documentation"]
+	path = API-Documentation
+	url = git@github.com:Appitzr-Project/API-Documentation.git
+	branch = master
+[submodule "DB-Model"]
+	path = DB-Model
+	url = git@github.com:Appitzr-Project/DB-Model.git
+	branch = main
